@@ -1,0 +1,3 @@
+../Core/Src/step.c:10:6:microDelay	16	static
+../Core/Src/step.c:16:6:move_anticlockwise	24	static
+../Core/Src/step.c:63:6:move_clockwise	24	static

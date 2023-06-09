@@ -1,0 +1,4 @@
+../Core/Src/DC_Motor.c:9:6:Motor_INIT	24	static
+../Core/Src/DC_Motor.c:21:6:Motor_SET_DIR	16	static
+../Core/Src/DC_Motor.c:31:6:Motor_MOVE	16	static
+../Core/Src/DC_Motor.c:47:6:Motor_STOP	16	static

@@ -1,0 +1,2 @@
+../Core/Src/hc_sr04.c:11:6:hc_sr04_INIT	24	static
+../Core/Src/hc_sr04.c:20:7:hc_sr04_GET_VALUE	24	static
